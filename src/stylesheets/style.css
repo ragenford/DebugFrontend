@@ -1,0 +1,21 @@
+
+main h3{
+    padding-bottom: 3%;
+}
+main .message{
+    float: right;
+}
+
+ .test{
+   margin-left: 1%;
+   margin-bottom: 3%;
+   border-spacing: 20%;
+   margin: auto;
+}
+
+main .p-3{
+    display: inline-block;
+}
+main {
+    text-align: center;
+}
